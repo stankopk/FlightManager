@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maixm\\source\\repos\\SELSKIQ-PROEKT\\FlightManager\\FlightManager\\FlightManager.csproj": {}
+    "C:\\Users\\PC05-204\\Source\\Repos\\FlightManager\\FlightManager\\FlightManager\\FlightManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maixm\\source\\repos\\SELSKIQ-PROEKT\\FlightManager\\FlightManager\\FlightManager.csproj": {
+    "C:\\Users\\PC05-204\\Source\\Repos\\FlightManager\\FlightManager\\FlightManager\\FlightManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maixm\\source\\repos\\SELSKIQ-PROEKT\\FlightManager\\FlightManager\\FlightManager.csproj",
+        "projectUniqueName": "C:\\Users\\PC05-204\\Source\\Repos\\FlightManager\\FlightManager\\FlightManager\\FlightManager.csproj",
         "projectName": "FlightManager",
-        "projectPath": "C:\\Users\\Maixm\\source\\repos\\SELSKIQ-PROEKT\\FlightManager\\FlightManager\\FlightManager.csproj",
-        "packagesPath": "C:\\Users\\Maixm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maixm\\source\\repos\\SELSKIQ-PROEKT\\FlightManager\\FlightManager\\obj\\",
+        "projectPath": "C:\\Users\\PC05-204\\Source\\Repos\\FlightManager\\FlightManager\\FlightManager\\FlightManager.csproj",
+        "packagesPath": "C:\\Users\\PC05-204\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC05-204\\Source\\Repos\\FlightManager\\FlightManager\\FlightManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Maixm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC05-204\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
